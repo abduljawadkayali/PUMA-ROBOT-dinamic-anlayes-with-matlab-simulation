@@ -1,18 +1,11 @@
-		ROBOTİK 2 
-
-Grub :
-
-ABDULJAWAD KAYALI : 2015710226050
-ABBAS ELHAMMUD : 2015710225050
 
 Proje : Puma Robot 
 
+bu dosyadkÄ± kodlar bizim grubumuz tarafÄ±nda gerÃ§ekleÅŸtirilmiÅŸtir .
 
-bu dosyadkı kodlar bizim grubumuz tarafında gerçekleştirilmiştir .
-
-En nihai sonuçları görmek için 'calistir.m' matlab dosyasını çalıştırmanız yeterli olacaktır .
+En nihai sonuÃ§larÄ± gÃ¶rmek iÃ§in 'calistir.m' matlab dosyasÄ±nÄ± Ã§alÄ±ÅŸtÄ±rmanÄ±z yeterli olacaktÄ±r .
  
-bu programın çıktısında kütle matrisinin , Coriolis ve Merkezkaç kuvvet vektörüleri , Yer çekim vektörleri
-ve Tork değerleri elde edilecek .
+bu programÄ±n Ã§Ä±ktÄ±sÄ±nda kÃ¼tle matrisinin , Coriolis ve MerkezkaÃ§ kuvvet vektÃ¶rÃ¼leri , Yer Ã§ekim vektÃ¶rleri
+ve Tork deÄŸerleri elde edilecek .
 
-Kullanılan kodlar Robotik 2 dersinde işlenen konulardır .
+KullanÄ±lan kodlar Robotik 2 dersinde iÅŸlenen konulardÄ±r .
